@@ -4,6 +4,7 @@
 
 // Calculates and displays total with discount for purchasing n units
 
+
 #include <iostream>
 using namespace std;
 
